@@ -5,8 +5,8 @@ criaCartao(
 permitindo que elas respondam a ações do usuário, como cliques ou movimentos do mouse.’
 )
 criaCartao(
-    ‘categoria’,
-    ‘pergunta’,
+    ‘Programação’,
+    ‘O que é CSS’,
     ‘resposta’
 )
 criaCartao(
