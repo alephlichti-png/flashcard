@@ -15,8 +15,8 @@ criaCartao(
     ‘resposta’
 )
 criaCartao(
-    ‘categoria’,
-    ‘pergunta’,
+    ‘Geografia’,
+    ‘Onde se localiza o Peru?’,
     ‘resposta’
 )
 criaCartao(
