@@ -7,7 +7,8 @@ permitindo que elas respondam a ações do usuário, como cliques ou movimentos 
 criaCartao(
     ‘Programação’,
     ‘O que é CSS?’,
-    ‘resposta’
+    ‘O CSS é uma linguagem de estilização, permitindo aplicar estilos diretamente nos elementos
+HTML, alterando sua aparência visual.’
 )
 criaCartao(
     ‘Geografia’,
