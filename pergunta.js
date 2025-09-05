@@ -20,8 +20,8 @@ criaCartao(
     ‘resposta’
 )
 criaCartao(
-    ‘categoria’,
-    ‘pergunta’,
+    ‘Inglês’,
+    ‘O que é verbo "to be"?’,
     ‘resposta’
 )
 criaCartao(
