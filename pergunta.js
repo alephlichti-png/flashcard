@@ -29,5 +29,5 @@ Ele é usado para descrever a condição, estado, identidade ou localização de
 criaCartao(
     ‘Geografia’,
     ‘Onde está localizado o Estados Unidos’,
-    ‘resposta’
+    ‘Se localiza no continente americano Norte’
 )
