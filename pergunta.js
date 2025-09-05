@@ -25,7 +25,7 @@ criaCartao(
     ‘resposta’
 )
 criaCartao(
-    ‘categoria’,
-    ‘pergunta’,
+    ‘Geografia’,
+    ‘Onde está localizado o Estados Unidos’,
     ‘resposta’
 )
