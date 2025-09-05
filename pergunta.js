@@ -18,12 +18,13 @@ criaCartao(
 criaCartao(
     ‘Geografia’,
     ‘Onde se localiza o Peru?’,
-    ‘resposta’
+    ‘No continente americano sul’
 )
 criaCartao(
     ‘Inglês’,
     ‘O que é verbo "to be"?’,
-    ‘resposta’
+    ‘O verbo "to be" em inglês é um dos verbos mais fundamentais da língua, correspondendo aos verbos "ser" e "estar" em português.
+Ele é usado para descrever a condição, estado, identidade ou localização de algo ou alguém.’
 )
 criaCartao(
     ‘Geografia’,
